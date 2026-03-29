@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yousef Marey</h1>
 <h3 align="center">Passionate Software Engineer in Cairo, Egypt</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yousefmarey12" alt="yousefmarey12" /></a> </p>
 
 - 🔭 I’m currently working on [fixing a bug in jsPDF](https://github.com/parallax/jsPDF/issues/3867)
 
